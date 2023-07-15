@@ -1,0 +1,24 @@
+{
+  message: 'Database is connected successfully.',
+  level: 'info',
+  label: 'University',
+  timestamp: '2023-06-09T16:33:29.977Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  label: 'University',
+  timestamp: '2023-06-09T16:33:30.016Z'
+}
+{
+  message: 'Database is connected successfully.',
+  level: 'info',
+  label: 'University',
+  timestamp: '2023-06-09T16:35:36.085Z'
+}
+{
+  message: 'University app listening on port 5000',
+  level: 'info',
+  label: 'University',
+  timestamp: '2023-06-09T16:35:36.102Z'
+}

@@ -1,0 +1,74 @@
+{
+  errors: {
+    academicFaculty: CastError: Cast to ObjectId failed for value "Department of Biology" (type string) at path "academicFaculty" because of "BSONError"
+        at ObjectId.cast (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schema\objectid.js:248:11)
+        at ObjectId.SchemaType.applySetters (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schematype.js:1204:12)
+        at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1414:22)
+        at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1116:16)
+        at model.Document (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:165:12)
+        at model.Model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:122:12)
+        at new model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:4609:15)
+        at F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:2853:16
+        at Array.map (<anonymous>)
+        at Function.create (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:2842:38) {
+      stringValue: '"Department of Biology"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: 'Department of Biology',
+      path: 'academicFaculty',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (F:\Level-2\Mission-3\university-management-auth-service\node_modules\bson\src\objectid.ts:88:15)
+          at castObjectId (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schema\objectid.js:246:12)
+          at ObjectId.SchemaType.applySetters (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schematype.js:1204:12)
+          at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1414:22)
+          at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1116:16)
+          at model.Document (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:165:12)
+          at model.Model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:122:12)
+          at new model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:4609:15)
+          at F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:2853:16,
+      valueType: 'string'
+    }
+  },
+  _message: 'AcademicDepartment validation failed',
+  level: 'error',
+  label: 'University',
+  timestamp: '2023-07-07T10:45:48.366Z'
+}
+{
+  errors: {
+    academicFaculty: CastError: Cast to ObjectId failed for value "Department of Biology" (type string) at path "academicFaculty" because of "BSONError"
+        at ObjectId.cast (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schema\objectid.js:248:11)
+        at ObjectId.SchemaType.applySetters (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schematype.js:1204:12)
+        at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1414:22)
+        at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1116:16)
+        at model.Document (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:165:12)
+        at model.Model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:122:12)
+        at new model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:4609:15)
+        at F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:2853:16
+        at Array.map (<anonymous>)
+        at Function.create (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:2842:38) {
+      stringValue: '"Department of Biology"',
+      messageFormat: undefined,
+      kind: 'ObjectId',
+      value: 'Department of Biology',
+      path: 'academicFaculty',
+      reason: BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+          at new ObjectId (F:\Level-2\Mission-3\university-management-auth-service\node_modules\bson\src\objectid.ts:88:15)
+          at castObjectId (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schema\objectid.js:246:12)
+          at ObjectId.SchemaType.applySetters (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\schematype.js:1204:12)
+          at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1414:22)
+          at model.$set (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:1116:16)
+          at model.Document (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\document.js:165:12)
+          at model.Model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:122:12)
+          at new model (F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:4609:15)
+          at F:\Level-2\Mission-3\university-management-auth-service\node_modules\mongoose\lib\model.js:2853:16,
+      valueType: 'string'
+    }
+  },
+  _message: 'AcademicDepartment validation failed',
+  level: 'error',
+  label: 'University',
+  timestamp: '2023-07-07T10:47:40.213Z'
+}

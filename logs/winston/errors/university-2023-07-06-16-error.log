@@ -1,0 +1,51 @@
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688639810, i: 4 }),
+    signature: {
+      hash: Binary.createFromBase64("DbUcpnjM3IDvUDbSg6Z9HKx9uC8=", 0),
+      keyId: new Long("7217024961276280834")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688639810, i: 4 }),
+  level: 'error',
+  label: 'University',
+  timestamp: '2023-07-06T10:36:59.051Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688640170, i: 5 }),
+    signature: {
+      hash: Binary.createFromBase64("cehSoRQKOOLpaNiSs2GwE9TRgpI=", 0),
+      keyId: new Long("7217024961276280834")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688640170, i: 5 }),
+  level: 'error',
+  label: 'University',
+  timestamp: '2023-07-06T10:42:52.991Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
+{
+  ok: 0,
+  code: 2,
+  codeName: 'BadValue',
+  '$clusterTime': {
+    clusterTime: new Timestamp({ t: 1688640473, i: 1 }),
+    signature: {
+      hash: Binary.createFromBase64("fo9Gwm0JSXcqX3ALk3Wckzm1Bgc=", 0),
+      keyId: new Long("7217024961276280834")
+    }
+  },
+  operationTime: new Timestamp({ t: 1688640473, i: 1 }),
+  level: 'error',
+  label: 'University',
+  timestamp: '2023-07-06T10:47:52.686Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
