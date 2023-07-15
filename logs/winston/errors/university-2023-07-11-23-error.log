@@ -1,0 +1,216 @@
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:23:43.994Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:24:42.845Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:27:34.428Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:29:01.778Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:29:49.472Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:31:59.189Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:32:28.961Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:33:07.036Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:33:29.153Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:34:01.086Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:41:24.410Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:44:12.127Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:44:41.334Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:46:12.461Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:47:11.023Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:48:16.561Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:49:30.551Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  level: 'error',
+  message: 'Fail to connect database. querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.uvhk0wp.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'University',
+  timestamp: '2023-07-11T17:49:57.069Z'
+}

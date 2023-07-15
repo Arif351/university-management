@@ -1,0 +1,10 @@
+{
+  index: 0,
+  code: 11000,
+  keyPattern: { email: 1 },
+  keyValue: { email: 'user@gmail.com' },
+  level: 'error',
+  label: 'University',
+  timestamp: '2023-07-14T13:56:59.555Z',
+  [Symbol(errorLabels)]: Set(0) {}
+}
