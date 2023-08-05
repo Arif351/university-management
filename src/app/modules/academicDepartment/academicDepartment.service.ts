@@ -33,7 +33,7 @@ const getAllDepartments = async (
   paginationOptions: IPaginationOptions
 ): Promise<IGenericResponse<IAcademicDepartment[]>> => {
   const { limit, page, skip, sortBy, sortOrder } =
-    paginationHelpers.calculatePagintions(paginationOptions);
+    paginationHelpers.calculatePaginations(paginationOptions);
 
   // Extract searchTerm to implement search query
   const { searchTerm, ...filtersData } = filters;

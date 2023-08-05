@@ -37,7 +37,7 @@ const getAllStudents = async (
   }
 
   const { page, limit, skip, sortBy, sortOrder } =
-    paginationHelpers.calculatePagintions(paginationOptions);
+    paginationHelpers.calculatePaginations(paginationOptions);
 
   const sortCondition: { [key: string]: SortOrder } = {};
 

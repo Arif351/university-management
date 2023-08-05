@@ -15,8 +15,8 @@ const globalErrorHandler: ErrorRequestHandler = (
 ) => {
   // eslint-disable-next-line no-unused-expressions
   config.env === 'development'
-    ? console.log('globalErrorHandler', error)
-    : error.logger.error('globalErrorHandler', error);
+    ? console.log('globalErrorHandler', { error })
+    : console.error('global Error Handler', error);
 
   let statusCode = 500;
   let message = 'Something went wrong!';
